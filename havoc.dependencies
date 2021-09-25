@@ -1,14 +1,14 @@
 [
   {
-    "repository" : "vendor_xiaomi_violet",
+    "repository" : "android_vendor_xiaomi_violet",
     "target_path": "vendor/xiaomi/violet",
-    "branch": "eleven",
-    "remote": "pixel-devices-blobs"
+    "depth": "1",
+    "branch": "eleven"
   },
   {
-    "repository": "kernel_xiaomi_violet",
+    "repository": "android_kernel_xiaomi_violet",
     "target_path": "kernel/xiaomi/violet",
-    "branch":"eleven",
-    "remote":"pixel-devices"
+    "depth": "1",
+    "branch":"eleven"
   }
 ]
