@@ -32,5 +32,3 @@ PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
 
 # havoc specific props
 HAVOC_BUILD_TYPE := Official
-HAVOC_MAINTAINER := Athul Dinesan (Logan)
-HAVOC_GROUP_URL := https://t.me/havoc_violet
